@@ -1,0 +1,27 @@
+{
+  "name": "redux-playground",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "directories": {
+    "example": "example"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "babel-core": "^6.14.0",
+    "babel-preset-es2015": "^6.14.0"
+  },
+  "scripts": {
+    "start": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nickbalestra/redux-playground"
+  },
+  "author": "Nick Balestra",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nickbalestra/redux-playground/issues"
+  },
+  "homepage": "http://nick.balestra.ch/2016/demystifying-redux-createstore"
+}
